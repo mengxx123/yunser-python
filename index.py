@@ -52,7 +52,7 @@ def jsonC():
 
 @app.route("/")
 def hello():
-    return "Hello World!2020"
+    return "Hello World!2021"
 
 @app.route('/test')
 def test():
